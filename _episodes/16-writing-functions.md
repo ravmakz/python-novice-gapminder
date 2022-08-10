@@ -39,6 +39,8 @@ keypoints:
 ~~~
 def print_greeting():
     print('Hello!')
+    print('Whirrled')
+    print('Sup?')
 ~~~
 {: .language-python}
 
